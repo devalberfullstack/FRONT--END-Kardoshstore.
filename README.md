@@ -1,3 +1,3 @@
-# KardoshStore (Projeto em React)
+# KardoshStore (Projeto em React+ Vite)
 
 [Clique aqui para abrir o site](https://kardoshstore.netlify.app/)
