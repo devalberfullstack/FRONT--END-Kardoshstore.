@@ -46,4 +46,4 @@ Esse projeto foi importante para aprofundar conhecimentos em:
 ✔ deploy em produção
 ✔ banco NoSQL
 
-#React #Firebase #JavaScript #NodeJS #FullStack #Frontend #Backend #WebDeveloper #Programação #Dev
+#React  #JavaScript #NodeJS #FullStack #Frontend #Backend #WebDeveloper #Programação #Dev
