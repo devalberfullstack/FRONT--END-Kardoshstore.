@@ -1,62 +1,71 @@
 # KardoshStore (Projeto em React + Vite)
 
 Clique aqui para abrir o site:
-https://kardoshstore-frontend.netlify.app/
+https://kardoshstore-frontend.netlify.app
 
-Projeto Concluído — Ecommerce Full Stack
+## Projeto Concluído — E-commerce Full Stack
 
-Desenvolvi um sistema completo de ecommerce utilizando tecnologias modernas do ecossistema JavaScript.
+Desenvolvi um sistema completo de e-commerce utilizando tecnologias modernas do ecossistema JavaScript.
 
-Frontend:
-React.js
-React Router
-Context API / Hooks
-UI responsiva
-Integração com APIs
+### Frontend
 
-Backend:
-Node.js
-API REST
-Deploy na Vercel
+* React.js
+* React Router
+* Context API / Hooks
+* UI responsiva
+* Integração com APIs
 
-Banco de Dados:
-Banco NoSQL
+### Backend
 
-Funcionalidades:
-Checkout completo
-Carrinho de compras
-Painel administrativo
-Login seguro
-Consulta automática de CEP
-Integração Front + Back
-Persistência de pedidos
+* Node.js
+* API REST
+* Deploy na Vercel
 
-Deploy:
-Frontend hospedado na Netlify
-Backend hospedado na Vercel
+### Banco de Dados
 
-Tecnologias utilizadas:
-React
-JavaScript
-Banco NoSQL
-Node.js
-Axios
-REST API
+* Banco NoSQL
+
+### Funcionalidades
+
+* Checkout completo
+* Carrinho de compras
+* Painel administrativo
+* Login seguro
+* Consulta automática de CEP (coloque sem traços).
+* Integração Front + Back
+* Persistência de pedidos
+
+### Deploy
+
+* Frontend hospedado na Netlify
+* Backend hospedado na Vercel
+
+### Tecnologias utilizadas
+
+* React
+* JavaScript
+* Banco NoSQL
+* Node.js
+* Axios
+* REST API
 
 Esse projeto foi importante para aprofundar conhecimentos em:
-Arquitetura full stack
-Autenticação
-Integração de APIs
-Gerenciamento de estado
-Deploy em produção
-Banco NoSQL
 
-Observação:
+* Arquitetura Full Stack
+* Autenticação
+* Integração de APIs
+* Gerenciamento de estado
+* Deploy em produção
+* Banco NoSQL
+
+### Observação
+
 Este projeto é apenas para testes e demonstração de funcionamento.
-Não utilize para realizar compras reais.
+Não utilize para realizar compras reais. 
 
-Login administrador:
-Email: [admin@admin.com](mailto:admin@admin.com)
+### Login administrador
+
+Email: admin@admin.com
 Senha: 123123
 
 #React
@@ -68,4 +77,5 @@ Senha: 123123
 #WebDeveloper
 #Programação
 #Dev
+
 
